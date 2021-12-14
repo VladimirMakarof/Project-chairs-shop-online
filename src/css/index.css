@@ -1,2 +1,1 @@
-body {
-  background: #64b11c; }
+@import url(./constants/constants.scss);
