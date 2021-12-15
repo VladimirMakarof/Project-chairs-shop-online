@@ -1,0 +1,13 @@
+.info-blocks{
+    background: $primary3;
+    &__wrapper{
+        display: flex;
+        justify-content: center;
+        padding-top: 100px;
+    }
+    &__item{
+        &:not(:last-child){
+            margin-right: 30px;
+        }
+    }
+}
