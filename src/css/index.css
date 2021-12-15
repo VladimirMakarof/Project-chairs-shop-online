@@ -118,6 +118,17 @@ a {
     color: #fff;
     max-width: 170px; }
 
+.sponsor-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 35px 60px;
+  background: #fff;
+  border: 0.5px solid #E5E5E5; }
+  .sponsor-item__img {
+    width: 150px;
+    height: 50px; }
+
 .header-navigation {
   background: #E5E5E5; }
   .header-navigation__link {
@@ -213,3 +224,9 @@ a {
     padding-top: 100px; }
   .info-blocks__item:not(:last-child) {
     margin-right: 30px; }
+
+.sponsors {
+  background: #fff; }
+  .sponsors__wrapper {
+    display: flex;
+    flex-wrap: wrap; }
