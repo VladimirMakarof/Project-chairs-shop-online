@@ -12,6 +12,10 @@
 - copyright
 
 2. Общие элементы
-- product -card
-- sponser - item 
-- info - block
+- product-card
+- sponser-item 
+- info-block
+- callback-block
+- default-buttom
+
+3. Выделить общие цвета
