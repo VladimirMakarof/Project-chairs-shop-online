@@ -1,3 +1,4 @@
+$wrapper-width: 60%;
 html{
     font-size: 10px;
     line-height: 10px;
@@ -21,5 +22,11 @@ a{
     }
 }
 .wrapper{
-    
+    width: $wrapper-width;
+}
+section,
+header,
+footer{
+    display: flex;
+    justify-content: center;
 }
