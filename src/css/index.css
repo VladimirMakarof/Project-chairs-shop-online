@@ -221,7 +221,8 @@ a {
   .info-blocks__wrapper {
     display: flex;
     justify-content: center;
-    padding-top: 100px; }
+    padding-top: 100px;
+    padding-bottom: 100px; }
   .info-blocks__item:not(:last-child) {
     margin-right: 30px; }
 
@@ -230,3 +231,7 @@ a {
   .sponsors__wrapper {
     display: flex;
     flex-wrap: wrap; }
+  .sponsors__item {
+    width: 25%;
+    max-width: 25%;
+    box-sizing: border-box; }
