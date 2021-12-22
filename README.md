@@ -17,5 +17,6 @@
 - info-block
 - callback-block
 - default-buttom
+- social-link
 
 3. Выделить общие цвета
