@@ -1,4 +1,4 @@
 # chairs-shop-online
 
 
-https://vladimirmakarof.github.io/chairs-shop-online/
+https://vladimirmakarof.github.io/Project-chairs-shop-online/
